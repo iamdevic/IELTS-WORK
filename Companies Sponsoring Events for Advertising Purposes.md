@@ -1,5 +1,7 @@
 ### Many companies sponsor sports as a way of advertising themselves. Some people think this is good for the world of sport, while others think it is negative. Discuss both views and give your own opinion.
 
+(261 words)
+
 Sponsoring sports plays an vital role for rhe companies who wants to advertise themselves. While some argue it has positive impact in development of sport, Other criticize it believing that it comes with some drawbacks. I personally tend to believe that advantages strongly outweigh disadvantages if properly regulated by authorities.
 
 Firstly, Corporate sponsorship funds expensive atheletic equipments required for training and matches, as well as travel expenditure to necessary destinations and medical expenditure for atheletes' wellbeing which they may find difficult to fund on their own. Secondly, Sponsors also plays a major role in contributition of development of sports infrastructure such as renovation or creation of new stadiums. They also shown a valuable contribution in promotion of sports, especially by encouraging youngsters to play indoor and outdoor games and keep themselves fit.
