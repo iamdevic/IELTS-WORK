@@ -6,9 +6,9 @@ Write at least 150 words.
 
 ![IELTS Writing Test 6 Task 1](20Aug2026_1.png)
 
-The line graph illustrates how the frequency of three kinds of fast food - pizza, fish and chips and hamburgers - varied among Australian teenagers between 1975 and 2000.
+The line graph illustrates how the frequency of three kinds of fast food - pizza, <u>fish and chips and hamburgers</u> - varied among Australian teenagers between 1975 and 2000.
 
-The data cleary shows that the consumption of Hamburgers and Pizza rose considerably over the period, while the consumption of Fish and Chips, despite being the most popular choice.
+The data clearly shows that the consumption of Hamburgers and Pizza rose considerably over the period, while the consumption of Fish and Chips, despite being the most popular choice.
 
 In 1975, fish and chips were eaten around 100 times a year, far exceeding hamburgers and pizza - roughly 8 to 10 times. Around mid-1980s, It gradually decreased but made a comeback in 1985. After which is sharply declined to just under 40 times by 2000.
 
