@@ -4,7 +4,7 @@ Summarize the information by selecting and reporting the main features and make 
 
 Write at least 150 words.
 
-![[Attachments/\(practicepteonline.com\) IELTS Writing Test 6 Task 1.png]]
+![IELTS Writing Test 6 Task 1](Attachments/%28practicepteonline.com%29%20IELTS%20Writing%20Test%206%20Task%201.png)
 
 The line graph illustrates how the frequency of three kinds of fast food - pizza, fish and chips and hamburgers - varied among Australian teenagers between 1975 and 2000.
 
